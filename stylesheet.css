@@ -1,0 +1,45 @@
+body {
+    background-color: lightblue;
+
+}
+
+h1 {color: black;
+    text-align: center;
+	    font-size: 50px;
+		margin:100px; 
+}
+
+ul{
+	list-style-type; 44px;
+	padding: 0;
+	overflow: hidden;
+	background-color: pink;	
+	border: 5px dotted	;
+	margin-top: 
+	
+}
+border{border-color: black;
+	
+}
+p {
+    font-family: verdana;
+    font-size: 20px;
+	margin: 74;
+}
+
+
+div{
+    width: 1505px;
+    height: 305px;
+    background-color:;
+    margin: 8px ;
+}
+la {
+display: inline-block;
+color: white;
+text-align: center;
+padding: 25px
+text-decoration: none;
+}
+li a:hover{
+	background-color: white;
